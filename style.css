@@ -86,7 +86,6 @@ button.active{
     box-shadow: 0 0 20px #00ffcc, 0 0 40px rgba(0,255,204,0.5);
 }
 
-
 button{
     transition: all 0.3s ease;
 }
