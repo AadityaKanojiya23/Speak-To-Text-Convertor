@@ -5,7 +5,7 @@ function startConverting() {
         alert("Use Google Chrome!");
         return;
     }
-
+ 
     recognition = new webkitSpeechRecognition();
 
     recognition.lang = "en-IN";
